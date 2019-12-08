@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		glue="com/cucumber/stepdefinations",
+		glue="com/cucumber/stepdefinations,webstepDefinitions",
 		features="src/test/resources/com/cucumber/features",
 		tags="@tag2"
 		)
