@@ -17,4 +17,11 @@ public class StepDefinitions {
 	    // Write code here that turns the phrase above into concrete actions
 	    System.out.println("Pass");
 	}
+	
+	@Given("The User navigates to the application Url.")
+	public void the_User_navigates_to_the_application_Url() {
+	    // Write code here that turns the phrase above into concrete actions
+	    System.out.println("Pass");
+	}
+
 }
