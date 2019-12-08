@@ -22,7 +22,7 @@ public class StepDefinitions {
 	public void the_User_navigates_to_the_application_Url() {
 	    // Write code here that turns the phrase above into concrete actions
 	    System.out.println("Pass");
-	    System.out.println("Jenkins Test");
+	    System.out.println("Hello Jenkins Test");
 	}
 
 }
